@@ -1,0 +1,109 @@
+{
+    "Node":[
+        {
+            "id": "Left1",
+            "x": 100,
+            "y": 400
+        },
+        {
+            "id": "Left2",
+            "x": 300,
+            "y": 150
+        },
+        {
+            "id": "Left3",
+            "x": 300,
+            "y": 300
+          },
+          {
+            "id": "Left4",
+            "x": 300,
+            "y": 450
+          },
+          {
+            "id": "Left5",
+            "x": 300,
+            "y": 600
+          },
+          {
+            "id": "Left6",
+            "x": 500,
+            "y": 80
+          },
+          {
+            "id": "Left7",
+            "x": 500,
+            "y": 180
+          },
+          {
+            "id": "Right1",
+            "x": 1200,
+            "y": 400
+          },
+          {
+            "id": "Right2",
+            "x": 1000,
+            "y": 150
+          },
+          {
+            "id": "Right3",
+            "x": 1000,
+            "y": 300
+          },
+          {
+            "id": "Right4",
+            "x": 1000,
+            "y": 450
+          },
+          {
+            "id": "Right5",
+            "x": 1000,
+            "y": 600
+          },
+          {
+            "id": "Right6",
+            "x": 800,
+            "y": 80
+          },
+          {
+            "id": "Right7",
+            "x": 800,
+            "y": 180
+          }
+        ],
+    "links":  [
+            {
+              "target": "root1",
+              "source": "root"
+            },
+            {
+              "target": "root2",
+              "source": "root"
+            },
+            {
+              "target": "root3",
+              "source": "root"
+            },
+            {
+              "target": "root4",
+              "source": "root"
+            },
+            {
+              "target": "root5",
+              "source": "root"
+            },
+            {
+              "target": "rRoot1",
+              "source": "rRoot"
+            },
+            {
+              "target": "rRoot2",
+              "source": "rRoot"
+            },
+            {
+              "target": "rRoot3",
+              "source": "rRoot"
+            }
+        ]
+    }
+    

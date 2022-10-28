@@ -1,0 +1,43 @@
+{
+    "list": [
+        {
+            "nameofstore": 1,
+            "nameofstructure": "11",
+            "personofopen":"11",
+            "dateofopen": "2020-7-12",
+            "detials": "这是可视化数据项"
+        },
+        {
+            "nameofstore": 1,
+            "nameofstructure": "11",
+            "personofopen":"11",
+            "dateofopen": "2020-7-12",
+            "detials": "这是可视化数据项"
+        },
+        {
+            "nameofstore": 1,
+            "nameofstructure": "11",
+            "personofopen":"11",
+            "dateofopen": "2020-7-12",
+            "detials": "这是可视化数据项"
+        }
+        ,
+        {
+            "nameofstore": 1,
+            "nameofstructure": "11",
+            "personofopen":"11",
+            "dateofopen": "2020-7-12",
+            "detials": "这是可视化数据项"
+        },
+        {
+            "nameofstore": 1,
+            "nameofstructure": "11",
+            "personofopen":"11",
+            "dateofopen": "2020-7-12",
+            "detials": "这是可视化数据项"
+        }
+    ],
+    "pageTotal": 4,
+    "pageSize":4,
+    "pageIndex":1
+}

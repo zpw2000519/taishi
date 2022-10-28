@@ -1,0 +1,48 @@
+{
+    "list": [
+        {
+            "nameofsource": "1",
+            "nameofstore": "2",
+            "nameofdata":"2",
+            "detials":"这是数据项",
+            "yn":"是",
+            "way":"手动"
+        },
+        {
+            "nameofsource": "1",
+            "nameofstore": "2",
+            "nameofdata":"2",
+            "detials":"这是数据项",
+            "yn":"否",
+            "way":"2sigma"
+        },
+        {
+            "nameofsource": "1",
+            "nameofstore": "2",
+            "nameofdata":"2",
+            "detials":"这是数据项",
+            "yn":"否",
+            "way":"1sigma"
+        }
+        ,
+        {
+            "nameofsource": "1",
+            "nameofstore": "2",
+            "nameofdata":"2",
+            "detials":"这是数据项",
+            "yn":"是",
+            "way":"手动"
+        },
+        {
+            "nameofsource": "1",
+            "nameofstore": "2",
+            "nameofdata":"2",
+            "detials":"这是数据项",
+            "yn":"是",
+            "way":"手动"
+        }
+    ],
+    "pageTotal": 4,
+    "pageSize":10,
+    "pageIndex":1
+}

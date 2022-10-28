@@ -1,0 +1,36 @@
+{
+    "list": [{
+            "numberofdesign": 1,
+            "nameofdesign": "张三",
+            "personofopen": 123,
+            "dateofopen": "无",
+            "detials": "成功",
+            "flow": ""
+        },
+        {
+            "numberofdesign": 1,
+            "nameofdesign": "张三",
+            "personofopen": 123,
+            "dateofopen": "无",
+            "detials": "成功",
+            "flow": ""
+        },
+        {
+            "numberofdesign": 1,
+            "nameofdesign": "张三",
+            "personofopen": 123,
+            "dateofopen": "无",
+            "detials": "成功",
+            "flow": ""
+        },
+        {
+            "numberofdesign": 1,
+            "nameofdesign": "张三",
+            "personofopen": 123,
+            "dateofopen": "无",
+            "detials": "成功",
+            "flow": ""
+        }
+    ],
+    "pageTotal": 4
+}

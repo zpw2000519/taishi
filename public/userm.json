@@ -1,0 +1,38 @@
+{
+    "list": [
+        {
+            "NumberID": "001",
+            "UserName": "张三",
+            "DateofOpening": "2020.05.03",
+            "UserPermissions": "普通用户"
+        },
+        {
+            "NumberID": "001",
+            "UserName": "张三",
+            "DateofOpening": "2020.05.03",
+            "UserPermissions": "普通用户"
+        },
+        {
+            "NumberID": "001",
+            "UserName": "张三",
+            "DateofOpening": "2020.05.03",
+            "UserPermissions": "普通用户"
+        }
+        ,
+        {
+            "NumberID": "001",
+            "UserName": "张三",
+            "DateofOpening": "2020.05.03",
+            "UserPermissions": "普通用户"
+        },
+        {
+            "NumberID": "001",
+            "UserName": "张三",
+            "DateofOpening": "2020.05.03",
+            "UserPermissions": "普通用户"
+        }
+    ],
+    "pageTotal": 4,
+    "pageSize":4,
+    "pageIndex":1
+}
